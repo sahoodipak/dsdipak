@@ -1,2 +1,2 @@
 # dsdipak
-New file to stydy Git &amp; Github
+New file to stydy Git &amp; Github.
